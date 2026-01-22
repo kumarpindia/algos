@@ -1,42 +1,40 @@
-Python Algorithms Repository
+**Python Algorithms Repository**
 
-A curated collection of common algorithms implemented in Python, written for learning, interview preparation, and quick reference.
+A curated collection of **common algorithms implemented in Python**, written for learning, interview preparation, and quick reference.
 This repository focuses on clean, readable code with an emphasis on clarity and correctness.
 
-What You’ll Find Here
+**What You’ll Find Here**
 
 This repo includes implementations of commonly used algorithms across topics such as:
 
-Sorting Algorithms
+**Sorting Algorithms**
 Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, etc.
 
-Searching Algorithms
+**Searching Algorithms**
 Linear Search, Binary Search
 
-Recursion & Backtracking
+**Recursion & Backtracking**
 Binary strings generation, permutations, subsets, etc.
 
-Data Structures & Utilities
-Stacks, queues, linked lists (as applicable)
+**Data Structures & Utilities**
+Stacks, queues, linked lists 
 
-Graph / Tree Algorithms (planned)
+**Graph / Tree Algorithms**
 BFS, DFS, shortest paths, traversals
 
-Dynamic Programming (planned)
+**Dynamic Programming**
 Classic DP problems and patterns
 
-Not all algorithm are available as of now. I will be building it over time.
+_Not all algorithm are available as of now. I will be building it over time._
 
 
-Goals of This Repository
+**Goals of This Repository**
 
-Provide clear Python implementations of core algorithms
+Provide **clear Python implementations** of core algorithms
 
-Maintain easy-to-understand logic, suitable for beginners as well as interview prep
+Maintain **easy-to-understand logic**, suitable for beginners as well as interview prep
 
-Serve as a personal reference and a reusable code base
-
-Add complexity notes and examples wherever helpful
+Serve as a **personal reference** and a reusable code base
 
 
 Repository Structure (example)
@@ -53,7 +51,7 @@ Repository Structure (example)
 │   └── ...
 └── README.md
 
-How to Use
+**How to Use**
 
 Clone the repository:
 
@@ -63,22 +61,23 @@ cd <repo-name>
 
 Run any algorithm file using Python:
 
-python3 sorting/bubble_sort.py
+python sorting/bubble_sort.py
 
-Notes
 
-Implementations prioritize readability over micro-optimizations.
+**Notes**
 
-Some algorithms are implemented in-place, while others return new structures depending on the use case.
+* Implementations prioritize readability over micro-optimizations.
 
-More algorithms and categories will be added over time.
+* Some algorithms are implemented in-place, while others return new structures depending on the use case.
 
-Contributions
+* More algorithms and categories will be added over time.
+
+**Contributions**
 
 Contributions are welcome. If you’d like to add an algorithm or improve an implementation:
 
-Fork the repo
+1. Fork the repo
 
-Create a new branch
+2. Create a new branch
 
-Submit a pull request
+3. Submit a pull request
