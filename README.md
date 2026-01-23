@@ -38,7 +38,9 @@ Serve as a **personal reference** and a reusable code base
 
 
 Repository Structure (example)
+
 .
+
 ├── sorting/
 
 │   ├── bubble_sort.py
