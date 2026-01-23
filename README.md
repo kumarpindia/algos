@@ -40,15 +40,24 @@ Serve as a **personal reference** and a reusable code base
 Repository Structure (example)
 .
 ├── sorting/
+
 │   ├── bubble_sort.py
+
 │   ├── selection_sort.py
+
 │   └── merge_sort.py
+
 ├── searching/
+
 │   ├── linear_search.py
+
 │   └── binary_search.py
+
 ├── recursion/
+
 │   ├── binary_strings.py
 │   └── ...
+
 └── README.md
 
 **How to Use**
