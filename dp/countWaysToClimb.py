@@ -3,7 +3,6 @@
 # certain numbers of steps at a time. Given how the person can jump, 
 # count the number of ways they can reach the top.
 
-
 def count_ways_to_climb(steps, n):
 
     if n == 0 or n == 1:
@@ -21,6 +20,6 @@ def count_ways_to_climb(steps, n):
     
     return memo[n]
 
-print(count_ways_to_climb([1, 2], 1)) #should be 2
+print(count_ways_to_climb([1, 2], 1)) #should be 1
 print(count_ways_to_climb([1, 2], 2)) #should be 2
 print(count_ways_to_climb([2, 3], 7)) #should be 3
