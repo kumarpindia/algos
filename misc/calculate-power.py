@@ -2,6 +2,8 @@
 # using the Binary Exponentiation (Exponentiation by Squaring) technique.
 # This approach reduces the time complexity from O(b) (naïve multiplication) 
 # to O(log b), making it suitable for very large exponents.
+# Time Complexity: O(log b)
+# Space Complexity: O(1)
 
 def calculate_power(a, b):
     mod = 1000000007
