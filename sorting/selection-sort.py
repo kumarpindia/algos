@@ -19,5 +19,5 @@ def selection_sort(arr):
                 arr[i], arr[min_val_index] = arr[min_val_index], arr[i]
     return arr
     
-print(selection_sort([5, 8, 3, 9, 4, 1, 7]))
-print(selection_sort([-913743, 3241, 999999, 1243153, 0, 0, 999999999]))
+print(selection_sort([5, 8, 3, 9, 4, 1, 7])) # Output: [1, 3, 4, 5, 7, 8, 9]
+print(selection_sort([-913743, 3241, 999999, 1243153, 0, 0, 999999999])) # Output: [-913743, 0, 0, 3241, 999999, 1243153, 999999999]
