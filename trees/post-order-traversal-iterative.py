@@ -1,4 +1,5 @@
 # Given a binary tree, return the values of its nodes as an array in the order of a post-order traversal.
+# Below is a iterative approach to solve the same problem.
 # For example, for the following tree, you should return [4, 5, 2, 6, 7, 3, 1]:
 #    1
 #   / \
