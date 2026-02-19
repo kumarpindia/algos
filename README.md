@@ -43,23 +43,13 @@ Repository Structure (example)
 
 ├── sorting/
 
-│   ├── bubble_sort.py
-
-│   ├── selection_sort.py
-
-│   └── merge_sort.py
-
 ├── searching/
-
-│   ├── linear_search.py
-
-│   └── binary_search.py
 
 ├── recursion/
 
-│   ├── binary_strings.py
+├── ../
 
-│   └── ...
+├── ../
 
 └── README.md
 
@@ -67,8 +57,9 @@ Repository Structure (example)
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/kumarpindia/algos.git
+
+cd algos
 
 
 Run any algorithm file using Python:
